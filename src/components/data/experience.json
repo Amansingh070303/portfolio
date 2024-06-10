@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "role": "STEM Innovation Trainee",
+    "organisation": "RoboSkillify",
+    "startDate": "AUG, 2022",
+    "endDate": "OCT, 2022",
+    "location": "Gwalior,INDIA",
+    "experiences": [
+      "Worked on Frontend PROJECTS",
+      "Worked with the Experience Developers"
+    ],
+    "imageSrc": "company/robo.jpeg"
+  }
+  
+  
+]
